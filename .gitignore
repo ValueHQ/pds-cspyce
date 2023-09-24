@@ -20,3 +20,4 @@ swig/vectorize.i
 coverage.xml
 htmlcov
 cspyce-unit-test-kernels
+Pipfile.lock

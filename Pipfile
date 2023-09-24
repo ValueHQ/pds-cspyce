@@ -9,6 +9,7 @@ cffi = "*"
 docutils = "*"
 pip = "*"
 pycparser = "*"
+six = "*"
 
 [dev-packages]
 
